@@ -72,6 +72,10 @@ h3{
     /*font-size: smaller;*/
     text-align: center;
 }
-img{
+img.product{
     width: 100%;
+}
+img.product1{
+    width: 100%;
+    margin-bottom: -10px;
 }
